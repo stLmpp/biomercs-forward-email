@@ -1,1 +1,1 @@
-# biomercs-forward-email
+# AWS Lambda function to forward e-mails
